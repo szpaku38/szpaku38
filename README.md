@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Filip
+- 👀 I’m interested in learning how to code & changing my career to software development 💻
+- 🌱 I’m currently learning Python 🐍
+- 📫 How to reach me -> https://www.linkedin.com/in/filip-szpak-01443422b/
