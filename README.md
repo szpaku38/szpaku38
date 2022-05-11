@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Filip
-- 👀 I’m interested in learning how to code & changing my career to software development 💻
-- 🌱 I’m currently learning Python 🐍
+- 👀 I’m interested in FPV drones, sports, 3d printing & learning how to code 💻
+- 🌱 I’m currently learning Service Now & JavaScript 👨🏻‍💻
 - 📫 How to reach me -> https://www.linkedin.com/in/filip-szpak-01443422b/
